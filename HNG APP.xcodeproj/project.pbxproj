@@ -25,7 +25,6 @@
 		9BA1A06126CC978D00496D15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BA1A06426CC978D00496D15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BA1A06626CC978D00496D15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9BA1A06C26CCF0B000496D15 /* myName.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = myName.playground; path = "../../HNG task 2/HNG task 2/myName.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9BA1A0B026CD100F00496D15 /* name */ = {isa = PBXFileReference; lastKnownFileType = folder; name = name; path = ../name; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +63,6 @@
 				9BA1A05A26CC978B00496D15 /* SceneDelegate.swift */,
 				9BA1A05C26CC978B00496D15 /* ViewController.swift */,
 				9BA1A05E26CC978B00496D15 /* Main.storyboard */,
-				9BA1A06C26CCF0B000496D15 /* myName.playground */,
 				9BA1A06126CC978D00496D15 /* Assets.xcassets */,
 				9BA1A06326CC978D00496D15 /* LaunchScreen.storyboard */,
 				9BA1A06626CC978D00496D15 /* Info.plist */,
