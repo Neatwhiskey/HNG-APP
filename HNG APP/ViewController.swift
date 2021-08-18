@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         
         lab.text = myText
     }
+    
+    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+        text.resignFirstResponder()
+    }
 
     @IBOutlet var text: UITextField!
 
